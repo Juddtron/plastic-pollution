@@ -55,17 +55,11 @@ Create interactive charts that display years, location from a dropdown menu usin
 
 8. Using the `counter.css` in `static/` and `counter.html` in `templates/` add `<iframe>` to create the plastic bag counter being produced worldwide. 
     [Plastic Bag Counter Produced Worldwide](https://plastic-pollution-1b0465c24684.herokuapp.com/bagcounter) 
+7.Using the code, attached below to see if determine if there is a relationship between legislation types implemented and plastic waste generated. The following code also includes comparison of Global Laws Database and more information of global action on plastic pollution. Refer to references on dataset used ("Country-level plastic bag legislation....") and Global Laws.org.
 
 
 ### References / Credits
 1. [MarineMicroplastics.geojson, MarineMicroplastics_beaches.geojson](https://www.ncei.noaa.gov/products/microplastics).
 `Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances. – processed by Our World in Data. “Plastic waste emitted to the ocean per capita” [plastic-pollution- Mismanaged plastic waste to ocean per capita (kg per year)]. Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances. [original data].`
 
-2. [plasticriverinput.csv](https://github.com/mjardinico/plastic-pollution/blob/main/Resources/plasticriverinput_area.csv). 
-`Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances. – processed by Our World in Data`
 
-3. [recycled_plastic.json](https://ourworldindata.org/grapher/share-plastic-fate?tab=table).
-`OECD (2023) – processed by Our World in Data. “Recycled” [dataset]. OECD, “Global Plastics Outlook - Plastics waste by region and end-of-life fate” [original data].`
-
-### Disclaimer
-`Data Usage Disclaimer - Microplastics vary in origin, density, chemical properties, morphology, size and color. At present, there is no single combination of methods for sampling, extracting, analyzing, and reporting. Thus, the microplastic concentrations in the database may not always be comparable across studies. Users should consider the metadata in the archives which contain more details about the data records (such as sampling protocols and instrumental analysis) for further usability of the data.`
