@@ -16,6 +16,7 @@
 4. Jupyter Notebook files: 
     - https://github.com/mjardinico/plastic-pollution/blob/main/Resources/project_3_Teresa_mismanaged_waste.ipynb 
     - https://github.com/mjardinico/plastic-pollution/blob/main/folium_heatmap_marker.ipynb 
+    - https://github.com/mjardinico/plastic-pollution/blob/main/Global%20Response/%23Project_3_Global%20Response_Policies_and_Analysis-Final%20copy.ipynb  
 
 
 ### Presentation Slides
@@ -23,7 +24,7 @@
 
 
 
-### Hosted Site (Heroku):  https://plastic-pollution-1b0465c24684.herokuapp.com/ 
+### Site Deployed and Hosted on Heroku:  https://plastic-pollution-1b0465c24684.herokuapp.com/ 
 
 
 ### Instructions
@@ -55,11 +56,31 @@ Create interactive charts that display years, location from a dropdown menu usin
 
 8. Using the `counter.css` in `static/` and `counter.html` in `templates/` add `<iframe>` to create the plastic bag counter being produced worldwide. 
     [Plastic Bag Counter Produced Worldwide](https://plastic-pollution-1b0465c24684.herokuapp.com/bagcounter) 
-7.Using the code, attached below to see if determine if there is a relationship between legislation types implemented and plastic waste generated. The following code also includes comparison of Global Laws Database and more information of global action on plastic pollution. Refer to references on dataset used ("Country-level plastic bag legislation....") and Global Laws.org.
+
+9. Using the code, `Project_3_Global Response_Policies_and_Analysis-Final copy.ipynb` to see if determine if there is a relationship between legislation types implemented and plastic waste generated. The code also includes comparison of Global Laws Database and more information of global action on plastic pollution. 
 
 
 ### References / Credits
 1. [MarineMicroplastics.geojson, MarineMicroplastics_beaches.geojson](https://www.ncei.noaa.gov/products/microplastics).
 `Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances. – processed by Our World in Data. “Plastic waste emitted to the ocean per capita” [plastic-pollution- Mismanaged plastic waste to ocean per capita (kg per year)]. Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances. [original data].`
 
+2. Biography: Gibson, Lydia (2020), “Country-level plastic bag legislation against plastic waste and select Human Development Indices”, Mendeley Data, V1, doi: 10.17632/wtvnv9fv44.1 
 
+“From Birth to Ban: A History of the Plastic Shopping Bag.” UNEP, UN Environment Programme, 20Dec.2021,www.unep.org/news-and-stories/story/birth-ban-history-plastic-shopping-bag#:~:text=2002%20%E2%80%93%20Bangladesh%20is%20the%20first,countries%20begin%20to%20follow%20suit.
+
+3. “Global Plastic Laws.” Global Plastic Laws, 14 Oct. 2023, 
+www.globalplasticlaws.org/. 
+Hannah Ritchie, Veronika Samborska and Max Roser (2023) - “Plastic Pollution” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/plastic-pollution' [Online Resource]
+
+4. Gregli-Msft. “Color Enumeration and Colorfade, ColorValue, and RGBA Functions - Power Platform.” Power Platform | Microsoft Learn, learn.microsoft.com/en-us/power-platform/power-fx/reference/function-colors. Accessed Dec. 2023. 
+
+5. Initial Considerations Inc-1 - United Nations Environment Programme, 2023, apps1.unep.org/resolutions/uploads/briefing_-_initial_considerations_for_inc-1_2022.pdf. 
+
+6. Jahan, A R Tahseen. “What Happened to Bangladesh’s Polythene Ban?” The Confluence, 8 Oct. 2023, theConfluence.blog/what-happened-to-bangladeshs-polythene-ban/#:~:text=However%2C%20legal%20ban%20on%20polythene,According%20to%20the%20World%20Bank. 
+
+7. “Plastic Pollution Facts.” Plastic Pollution Coalition, 31 Aug. 2023, www.plasticpollutioncoalition.org/learn/plastic-pollution-facts. 
+
+8. Principal Technical Advisor and Global Lead on Plastics Offer. “A Global Treaty to End Plastic Pollution Is in Sight.” UNDP, 22 Nov. 2023, www.undp.org/blog/global-treaty-end-plastic-pollution-sight. 
+
+9. Sahoo, Soumendra Kumar. “Usage of Forward Slash (/) in Python.” DEV Community, DEV Community, 6 Dec. 2022, dev.to/soumendrak/usage-of-forward-slash-in-python-41no. 
+Stoel, Geoffrey. “Why Can’t Pandas Handle Decimals for Plotting?” Stack Overflow, 1 Nov.1961,stackoverflow.com/questions/33488542/why-cant-pandas-handle-decimals-for-plotting
