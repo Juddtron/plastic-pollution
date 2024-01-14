@@ -65,8 +65,7 @@ Create interactive charts that display years, location from a dropdown menu usin
 1. [MarineMicroplastics.geojson, MarineMicroplastics_beaches.geojson](https://www.ncei.noaa.gov/products/microplastics).
 `Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances. – processed by Our World in Data. “Plastic waste emitted to the ocean per capita” [plastic-pollution- Mismanaged plastic waste to ocean per capita (kg per year)]. Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances. [original data].`
 
-2. Biography: Gibson, Lydia (2020), “Country-level plastic bag legislation against plastic waste and select Human Development Indices”, Mendeley Data, V1, doi: 10.17632/wtvnv9fv44.1 
-
+2. Biography: Gibson, Lydia (2020), “Country-level plastic bag legislation against plastic waste and select Human Development Indices”, Mendeley Data, V1, doi: 10.17632/wtvnv9fv44.1. 
 “From Birth to Ban: A History of the Plastic Shopping Bag.” UNEP, UN Environment Programme, 20Dec.2021,www.unep.org/news-and-stories/story/birth-ban-history-plastic-shopping-bag#:~:text=2002%20%E2%80%93%20Bangladesh%20is%20the%20first,countries%20begin%20to%20follow%20suit.
 
 3. “Global Plastic Laws.” Global Plastic Laws, 14 Oct. 2023, 
