@@ -58,6 +58,7 @@ Create interactive charts that display years, location from a dropdown menu usin
     [Plastic Bag Counter Produced Worldwide](https://plastic-pollution-1b0465c24684.herokuapp.com/bagcounter) 
 
 9. Using the code, `Project_3_Global Response_Policies_and_Analysis-Final copy.ipynb` to see if determine if there is a relationship between legislation types implemented and plastic waste generated. The code also includes comparison of Global Laws Database and more information of global action on plastic pollution. 
+    ![Plastic Waste Global Legislation](https://github.com/mjardinico/plastic-pollution/blob/main/Resources/global_plastic_legislation.png)
 
 
 ### References / Credits
